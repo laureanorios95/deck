@@ -1,6 +1,5 @@
 //go:generate stringer -type=Suit,Rank
 
-// package deckOfCardsSolutionDeck
 package deck
 
 import (
