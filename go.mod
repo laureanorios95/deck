@@ -1,3 +1,3 @@
-module github.com/laureanorios95/deck
+module deck
 
 go 1.19
